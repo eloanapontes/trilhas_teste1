@@ -10,7 +10,7 @@ public class validacaoSenha {
             System.out.println("informe a senha: ");
             senhaDigitada= prompt.nextInt();
         }while(senhaDigitada != senhaCorreta);
-        
+
 
     }
 }
