@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Trilha1
-=======
 ## Hi there 👋
 
 <!--
@@ -17,4 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
->>>>>>> testeAula1/main
